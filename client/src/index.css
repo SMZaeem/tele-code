@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+/* 1. Define your custom colors here for v4 */
+@theme {
+  --color-dark-900: #121212; /* Deep background */
+  --color-dark-800: #1E1E1E; /* Editor/Card background */
+  --color-dark-700: #2D2D2D; /* Borders */
+}
+
+/* 2. Apply them */
+body {
+    @apply bg-dark-900 text-gray-300;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-dark-800;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-dark-700 rounded;
+}
