@@ -158,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 ---
 
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by SYED MOHAMMAD ZAEEM
 
 ```
 
