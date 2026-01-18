@@ -1,6 +1,5 @@
 # ⚡ Tele-Code: Real-Time Ephemeral Collaboration
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-v18-green.svg)
 ![React](https://img.shields.io/badge/React-v18-blue.svg)
 ![Redis](https://img.shields.io/badge/Redis-Caching-red.svg)
@@ -152,11 +151,6 @@ npm run dev
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
----
 
 *Built with ❤️ by SYED MOHAMMAD ZAEEM
 
