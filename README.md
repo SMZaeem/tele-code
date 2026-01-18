@@ -152,7 +152,7 @@ npm run dev
 ---
 
 
-*Built with ❤️ by SYED MOHAMMAD ZAEEM
+Built with ❤️ by SYED MOHAMMAD ZAEEM
 
 ```
 
